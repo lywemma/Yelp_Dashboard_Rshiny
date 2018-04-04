@@ -18,4 +18,4 @@ Yelp business Map view dashboard
 
 
 
-![Map View Capture](C:\Users\Emma\Documents\My Github projects\yelp\yelp_map\Map_Capture.JPG)
+![Map View Capture](https://github.com/lywemma/Yelp_Dashboard_Rshiny/blob/master/Map_Capture.JPG)
