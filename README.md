@@ -1,8 +1,8 @@
-# Yelp_Dashboard_Rshiny
+#                   Yelp_Dashboard_Rshiny
 
 
 
-Yelp business and review dashboard
+## Yelp business and review dashboard
 
 <https://lywemma.shinyapps.io/yelp_dashboard/>
 
@@ -12,7 +12,7 @@ Yelp business and review dashboard
 
 ![WordCloud_Capture](https://github.com/lywemma/Yelp_Dashboard_Rshiny/blob/master/WordCloud_Capture.JPG)
 
-Yelp business Map view dashboard
+## Yelp business Map view dashboard
 
 <https://lywemma.shinyapps.io/yelp_mapview/>
 
